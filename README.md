@@ -77,5 +77,8 @@ SET logs the information in the xml file under /root/.set directory:
 
 <img width="1043" height="746" alt="image" src="https://github.com/user-attachments/assets/ea54af88-9e86-4bee-bf2e-e26d0f879b9f" />
 
+<img width="1040" height="232" alt="image" src="https://github.com/user-attachments/assets/ad7090b8-1c14-4587-b861-470dbada15f0" />
+
+
 ## RESULT:
 The Social Engineering Toolkit (SET) is used to create backdoor is  examined successfully
