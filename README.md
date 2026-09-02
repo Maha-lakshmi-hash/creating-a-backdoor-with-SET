@@ -75,7 +75,7 @@ SET logs the information regarding the Google credentials:
 SET logs the information in the xml file under /root/.set directory:
 ## OUTPUT
 
-<img width="927" height="600" alt="image" src="https://github.com/user-attachments/assets/ee33dbb4-de8d-471d-aa4b-d39530fb0c05" />
+<img width="1043" height="746" alt="image" src="https://github.com/user-attachments/assets/ea54af88-9e86-4bee-bf2e-e26d0f879b9f" />
 
 ## RESULT:
 The Social Engineering Toolkit (SET) is used to create backdoor is  examined successfully
